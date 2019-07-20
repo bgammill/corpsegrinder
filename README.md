@@ -1,6 +1,12 @@
 # corpsegrinder
 Counts the most-used words in a repo and prints them out.
 
+
+## Requirements
+* GitPython
+
+
+## Usage
 ```
 usage: corpsegrinder.py [-h] [--branch BRANCH] [--max MAX] [--repo REPO]
 
